@@ -1,0 +1,6 @@
+FROM deepseek-r1:7b
+
+PARAMETER temperature 1
+
+SYSTEM """
+"""
